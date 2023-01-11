@@ -1,0 +1,20 @@
+{
+  "name": "new_version_cy",
+  "version": "1.0.0",
+  "description": "Pruebas automatizadas en Toctoc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "QA",
+    "Automatizacion",
+    "Cypress",
+    "Cucumber"
+  ],
+  "author": "Mariela Hurtado Vivas",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.0.0"
+  }
+}
